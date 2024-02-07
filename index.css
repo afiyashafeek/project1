@@ -1,0 +1,251 @@
+.banner{
+    background-color: rgb(65, 168, 252);
+    
+    background-image: url(1611746171.png);
+    background-size: cover;
+    height: 500px;
+    /* width: 1380px; */
+}
+.bannerbox{
+    background-color: rgb(34, 111, 255);
+    min-height: 300PX;
+    text-align: center;
+    margin: 15px;
+    padding-top: 15PX;
+    padding-bottom: 15px;
+
+}
+.line1{
+    color: rgb(255, 255, 255);
+    height: 20px;
+}
+.line2{
+    color: aliceblue;
+    height: 20px;
+    margin-bottom: 5px;
+}
+.head1{
+    text-align: center;
+    color: aliceblue;
+    font-size: small;
+    margin-top: 4px;
+    padding-top: 3PX;
+}
+.head2{
+    color: aliceblue;
+    text-align: center;
+    transform:uppercase;
+    text-transform: capitalize;
+    font-size:xx-large;
+    margin-top: 5px;
+    
+}
+.para1{
+    padding: 10px;
+    color: #fff5f5;
+
+}
+.bannerbox2{
+     color: #fff5f5;
+     font-size: 15px;
+    background-color: rgb(255, 21, 21);
+    padding: 5px 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+
+   
+   
+   
+}
+.on1{
+    color: aliceblue;
+    text-align: center;
+}
+.line3{
+    color: rgb(4, 9, 14);
+    /* width: 1000px; */
+}
+.banner3{
+    background-color: rgb(255, 255, 255)255, 255);
+    height: 1000px;
+    padding-left: 15px;
+}
+
+.box1{
+    background-color: brown;
+    height: 200px;
+    background-image: url(download\ \(2\).jpg);
+   
+}
+.box2{
+    background-color: aqua;
+    height: 200px;
+    background-image: url(download.jpg);
+}
+
+.box3{
+    background-color: rgb(119, 0, 255);
+    height: 200px;
+    background-image: url(President_Barack_Obama.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .banner4{
+        background-color: rgb(254, 255, 255);
+        min-height: 800px;
+        padding: 15px;
+      
+    }
+.topnews{
+    text-align:left;
+}
+.icon1{
+    float: right;
+}
+.icon2{
+    float: right;
+}
+.icon3{
+    float: right;
+}
+.banner6{
+    background-color: #fafdff;
+    height:200px;
+    margin: 20px;
+    
+    /* margin-bottom: 50px; */
+    /* margin-left: 50px; */
+    margin-right: 50px;
+    margin-top: 50px;
+}
+   .view{
+    color: rgb(84, 90, 90);
+    font-size: medium;
+    text-align: left bottom;
+
+   }
+   
+   .inbox{
+    background-color: rgb(202, 199, 199);
+    height: 30px;
+    text-align: center;
+
+   }
+   .seemore{
+    color: rgb(0, 0, 255);
+   }
+   .see{
+    color: blue;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .banner9{
+    padding-top: 15px;
+    background-color: antiquewhite;
+    height: 100px;
+   }
+   .fb{
+    margin: 15px;
+  
+   }
+   .in{
+    margin: 15px;
+   }
+   .tw{
+    margin: 15px;
+   }
+   .yo{
+    margin: 15px;
+   }
+   .go{
+   
+    margin: 15px;
+   }
+   .ch{
+    color: blue;
+    margin: 15px;
+   }
+   .env{
+    color: blue;
+    margin: 15px;
+   }
+   .banner10{
+    background-color: antiquewhite;
+    /* height: 600px; */
+    margin-top: 25px;
+   }
+   .ho{
+    background-color: aqua;
+   }
+   .line2{
+    background-color: red;
+    height: 1px;
+   }
+   .line5{
+    background-color: red;
+    height: 1px;
+   }
+   .line6{
+    background-color: red;
+    height: 1px;
+
+   }
+   .line7{
+    background-color: red;
+    height: 1px;
+   }
+   .line8{
+    background-color: red;
+    height: 1px;
+
+   }
+   .logo{
+    height: 20px;
+   }
+
+
+.obama{
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+}
+.whitehouse{
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.latest{
+    text-decoration: none;
+}
+.pop{
+    font-size: large;
+    margin-top: 5PX;
+}
+.fill{
+    margin-top: 25px;
+    display: inline-block;
+    color: rgb(13, 54, 187);
+}
+.carrot{
+    font-size: large;
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+   
+.ca{
+    font-size: large;
+    color: blue;
+   
+}
+.most1{
+    margin-top: 15px;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para10{
+    margin-top: 10px;
+}
+.address{
+    margin-top: 10px;
+}
